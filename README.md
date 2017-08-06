@@ -1,2 +1,0 @@
-# gamutkart
-practice Project
